@@ -1,33 +1,39 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+E-Commerce Website
+This is a simple e-commerce website project built using HTML and CSS.
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+Table of Contents
+Introduction
+Features
+Installation
+Usage
+Contributing
+License
+Introduction
+The E-Commerce Website is a static web application that provides a user-friendly interface for customers to browse and purchase products online. It showcases various products with detailed information, allows customers to add items to their cart, and proceed to the checkout process.
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
+The website is designed using HTML for the structure and CSS for the styling, providing an attractive and responsive layout across different devices.
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
-- Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
-- Advanced responsive design using media queries.
-- And Many More.
+Features
+Browse and view product listings
+Product details with images, descriptions, and pricing
+Add items to the shopping cart
+Modify the cart contents (update quantities, remove items)
+Proceed to the checkout process
+Responsive design for optimal viewing on different devices
+Installation
+Clone the repository: git clonehttps://github.com/PrajjawalTiwari29/Ecommerce
+Navigate to the project directory: cd e-commerce-website
+Usage
+Open the index.html file in your preferred web browser.
+Browse the different product categories and click on a product to view its details.
+Add products to your cart by clicking the "Add to Cart" button.
+Review the cart contents by clicking on the shopping cart icon.
+Modify the quantities or remove items from the cart.
+Proceed to the checkout process by clicking the "Checkout" button.
+Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to contribute to this project.
 
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
+License
+This project is licensed under the MIT License.
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
-
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
-
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+Feel free to customize this README.md according to your specific project details, including any additional sections or information you'd like to include
